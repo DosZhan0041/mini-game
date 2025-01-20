@@ -1,8 +1,8 @@
 let data = {
-    "name": "Иван Иванов",
-    "email": "ivan.ivanov@example.com",
-    "age": 30,
-    "city": "Москва",
+    "name": "Alexey Mirnov",
+    "email": "Alexey.ivanov@example.com",
+    "age": 20,
+    "city": "Almaty",
     "isSubscribed": true
   }
  
